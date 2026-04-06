@@ -1,2 +1,1 @@
-# health-intelligence-dashboard
-🎯 Google Ads Campaign Health Intelligence Dashboard
+# 🎯 Google Ads Campaign Health Intelligence Dashboard
