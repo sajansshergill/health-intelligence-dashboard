@@ -1,0 +1,51 @@
+advertiser_id,advertiser_name,industry,monthly_budget_usd,optimization_goal,primary_kpi,client_id
+ADV_0001,"Rubio, Martinez and Gutierrez",Finance,383697.72,brand_awareness,impressions,default
+ADV_0002,"Hernandez, Carson and Brewer",Travel,112792.07,brand_awareness,impressions,default
+ADV_0003,Lynn Group,Finance,60550.08,direct_sales,roas,default
+ADV_0004,Mosley-Ramirez,Finance,36644.14,direct_sales,roas,default
+ADV_0005,"Harmon, Miller and Glenn",Retail,148387.09,brand_awareness,impressions,default
+ADV_0006,Miller LLC,Retail,19912.82,direct_sales,roas,default
+ADV_0007,Webb and Sons,Education,252144.07,brand_awareness,impressions,default
+ADV_0008,Wise-Landry,Tech,391463.32,brand_awareness,impressions,default
+ADV_0009,Cummings-Sanchez,Healthcare,36696.08,direct_sales,roas,default
+ADV_0010,Scott Inc,Tech,146891.19,brand_awareness,impressions,default
+ADV_0011,Flores and Sons,Food & Beverage,91735.63,brand_awareness,impressions,default
+ADV_0012,Brown Group,Finance,86274.49,lead_generation,cvr,default
+ADV_0013,Rogers-Davis,Tech,378379.3,brand_awareness,impressions,default
+ADV_0014,Ramirez-Patterson,Finance,17092.02,lead_generation,cvr,default
+ADV_0015,Dominguez-Peterson,Tech,51388.98,direct_sales,roas,default
+ADV_0016,Roach PLC,Food & Beverage,19421.64,direct_sales,roas,default
+ADV_0017,Warren Group,Finance,347568.49,brand_awareness,impressions,default
+ADV_0018,Robinson PLC,Tech,434892.97,brand_awareness,impressions,default
+ADV_0019,Jordan-Taylor,Finance,35017.62,lead_generation,cvr,default
+ADV_0020,Wilson LLC,Food & Beverage,216581.44,brand_awareness,impressions,default
+ADV_0021,Collins LLC,Travel,25023.34,direct_sales,roas,default
+ADV_0022,Short and Sons,Finance,52623.37,direct_sales,roas,default
+ADV_0023,Day-Luna,Travel,258017.1,brand_awareness,impressions,default
+ADV_0024,"Glenn, Foley and Phillips",Tech,56612.15,direct_sales,roas,default
+ADV_0025,Holland Inc,Travel,29321.21,direct_sales,roas,default
+ADV_0026,Mason and Sons,Retail,419811.17,brand_awareness,impressions,default
+ADV_0027,Garcia Group,Food & Beverage,34096.68,lead_generation,cvr,default
+ADV_0028,Bailey-Rodriguez,Travel,70727.57,direct_sales,roas,default
+ADV_0029,Anderson Ltd,Food & Beverage,344947.4,brand_awareness,impressions,default
+ADV_0030,"Robinson, Gonzalez and Montoya",Education,39413.89,direct_sales,roas,default
+ADV_0031,"Rose, Garcia and Meadows",Tech,160982.38,brand_awareness,impressions,default
+ADV_0032,Bullock Inc,Tech,48843.95,direct_sales,roas,default
+ADV_0033,"Stephens, Edwards and Graves",Education,29738.87,lead_generation,cvr,default
+ADV_0034,"Thomas, Hall and Wolf",Healthcare,42013.69,direct_sales,roas,default
+ADV_0035,Farmer-Andrews,Retail,118778.59,brand_awareness,impressions,default
+ADV_0036,Wright PLC,Healthcare,36662.0,direct_sales,roas,default
+ADV_0037,Hanson LLC,Finance,44345.74,lead_generation,cvr,default
+ADV_0038,"Mcdonald, Keith and Johnson",Automotive,23856.06,direct_sales,roas,default
+ADV_0039,Nguyen-Burch,Retail,59054.14,direct_sales,roas,default
+ADV_0040,Bradley Group,Tech,30513.16,direct_sales,roas,default
+ADV_0041,Rodriguez-Kennedy,Tech,24234.2,lead_generation,cvr,default
+ADV_0042,"Mccoy, Lozano and Barnett",Retail,70688.97,direct_sales,roas,default
+ADV_0043,"Johnson, Graham and Molina",Tech,62147.16,direct_sales,roas,default
+ADV_0044,"Frye, Nicholson and Dean",Finance,27383.36,direct_sales,roas,default
+ADV_0045,Williams LLC,Travel,218261.23,brand_awareness,impressions,default
+ADV_0046,Griffith Inc,Healthcare,76512.48,direct_sales,roas,default
+ADV_0047,"Scott, Peck and Sandoval",Retail,29311.7,direct_sales,roas,default
+ADV_0048,Elliott-Tran,Retail,468094.38,brand_awareness,impressions,default
+ADV_0049,Francis Group,Tech,76066.32,brand_awareness,impressions,default
+ADV_0050,Stanley Ltd,Finance,379358.42,brand_awareness,impressions,default

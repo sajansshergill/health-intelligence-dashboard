@@ -1,0 +1,201 @@
+campaign_id,campaign_name,advertiser_id,campaign_type,bid_strategy,daily_budget_usd,creative_variant,optimization_goal
+CAMP_0001,Utilize Seamless Architectures — Video,ADV_0014,Performance Max,target_cpa,358.02,B,lead_generation
+CAMP_0002,Syndicate Next-Generation Convergence — Display,ADV_0030,Video,target_roas,1803.1,B,direct_sales
+CAMP_0003,Transition Synergistic E-Markets — Video,ADV_0002,Performance Max,maximize_conversions,4560.37,B,brand_awareness
+CAMP_0004,Deliver Next-Generation Solutions — Shopping,ADV_0050,Video,target_cpa,12031.81,A,brand_awareness
+CAMP_0005,Disintermediate Out-Of-The-Box Technologies — Search,ADV_0036,Display,target_roas,636.74,A,direct_sales
+CAMP_0006,Expedite Global Synergies — Search,ADV_0036,Search,target_roas,1476.06,A,direct_sales
+CAMP_0007,Reinvent Turn-Key Users — Search,ADV_0009,Search,target_roas,1663.11,A,direct_sales
+CAMP_0008,Repurpose Transparent E-Commerce — Display,ADV_0005,Shopping,maximize_conversions,3532.78,A,brand_awareness
+CAMP_0009,Utilize Scalable Convergence — Performance Max,ADV_0035,Shopping,target_cpa,5176.75,A,brand_awareness
+CAMP_0010,Deliver Interactive Interfaces — Search,ADV_0045,Shopping,maximize_conversions,6215.33,B,brand_awareness
+CAMP_0011,Scale Holistic E-Markets — Search,ADV_0022,Search,maximize_conversion_value,983.38,B,direct_sales
+CAMP_0012,Streamline Ubiquitous Channels — Performance Max,ADV_0042,Performance Max,target_roas,1626.34,B,direct_sales
+CAMP_0013,Leverage 24/7 Initiatives — Shopping,ADV_0048,Performance Max,maximize_conversions,12147.75,A,brand_awareness
+CAMP_0014,Brand Cross-Media Technologies — Shopping,ADV_0034,Video,target_roas,837.35,A,direct_sales
+CAMP_0015,Deliver Back-End Channels — Performance Max,ADV_0016,Performance Max,target_roas,586.8,B,direct_sales
+CAMP_0016,Productize Bleeding-Edge Web-Readiness — Shopping,ADV_0024,Search,target_roas,1254.22,A,direct_sales
+CAMP_0017,Redefine Integrated Solutions — Display,ADV_0026,Shopping,target_cpa,10988.55,B,brand_awareness
+CAMP_0018,Enable Revolutionary Initiatives — Performance Max,ADV_0033,Display,target_cpa,711.45,A,lead_generation
+CAMP_0019,Unleash Clicks-And-Mortar Vortals — Display,ADV_0011,Search,maximize_conversions,1682.26,B,brand_awareness
+CAMP_0020,Drive Leading-Edge Relationships — Search,ADV_0007,Video,maximize_conversions,4875.72,A,brand_awareness
+CAMP_0021,Drive Real-Time Action-Items — Video,ADV_0018,Search,maximize_conversions,17036.39,A,brand_awareness
+CAMP_0022,Innovate Synergistic Mindshare — Search,ADV_0022,Video,maximize_conversion_value,1308.95,A,direct_sales
+CAMP_0023,Expedite Revolutionary Bandwidth — Shopping,ADV_0023,Video,maximize_conversions,9161.56,B,brand_awareness
+CAMP_0024,Repurpose Frictionless Vortals — Performance Max,ADV_0013,Display,target_cpa,9316.78,B,brand_awareness
+CAMP_0025,Harness 24/365 Applications — Display,ADV_0039,Shopping,target_roas,1606.62,A,direct_sales
+CAMP_0026,Synergize Mission-Critical Solutions — Shopping,ADV_0021,Video,target_roas,1249.88,A,direct_sales
+CAMP_0027,Seize Out-Of-The-Box Initiatives — Video,ADV_0039,Performance Max,target_roas,1980.06,A,direct_sales
+CAMP_0028,Engineer Dynamic Platforms — Search,ADV_0020,Performance Max,target_cpa,6277.45,A,brand_awareness
+CAMP_0029,Deploy Synergistic Paradigms — Video,ADV_0013,Display,target_cpa,14021.2,A,brand_awareness
+CAMP_0030,Leverage Integrated Networks — Search,ADV_0028,Performance Max,maximize_conversion_value,1802.29,A,direct_sales
+CAMP_0031,Drive Compelling Paradigms — Video,ADV_0019,Performance Max,manual_cpc,901.53,A,lead_generation
+CAMP_0032,Synthesize Leading-Edge Supply-Chains — Performance Max,ADV_0028,Display,maximize_conversion_value,2370.34,B,direct_sales
+CAMP_0033,Exploit Clicks-And-Mortar Deliverables — Search,ADV_0021,Shopping,target_roas,1108.82,A,direct_sales
+CAMP_0034,Envisioneer Revolutionary Platforms — Display,ADV_0037,Performance Max,target_cpa,1680.87,B,lead_generation
+CAMP_0035,Visualize Best-Of-Breed Portals — Shopping,ADV_0047,Video,target_roas,1178.01,A,direct_sales
+CAMP_0036,Reinvent Granular Paradigms — Search,ADV_0049,Performance Max,maximize_conversions,2651.14,B,brand_awareness
+CAMP_0037,Monetize End-To-End Convergence — Shopping,ADV_0030,Performance Max,target_roas,711.85,B,direct_sales
+CAMP_0038,Envisioneer Mission-Critical Action-Items — Display,ADV_0041,Performance Max,target_cpa,954.88,A,lead_generation
+CAMP_0039,Repurpose Viral Functionalities — Video,ADV_0001,Shopping,target_cpa,18850.26,A,brand_awareness
+CAMP_0040,Disintermediate Scalable Content — Performance Max,ADV_0011,Performance Max,maximize_conversions,4224.17,A,brand_awareness
+CAMP_0041,Enable Global Convergence — Display,ADV_0044,Shopping,target_roas,1188.65,A,direct_sales
+CAMP_0042,Deploy Dot-Com Initiatives — Performance Max,ADV_0025,Search,maximize_conversion_value,862.57,A,direct_sales
+CAMP_0043,Cultivate Bleeding-Edge Deliverables — Performance Max,ADV_0011,Performance Max,target_cpa,4025.93,B,brand_awareness
+CAMP_0044,Embrace Seamless Mindshare — Display,ADV_0033,Performance Max,maximize_conversions,716.63,A,lead_generation
+CAMP_0045,Scale Distributed Partnerships — Display,ADV_0045,Display,target_cpa,9926.18,B,brand_awareness
+CAMP_0046,Re-Contextualize Leading-Edge Eyeballs — Video,ADV_0027,Shopping,maximize_conversions,1340.59,B,lead_generation
+CAMP_0047,Re-Intermediate Intuitive Architectures — Search,ADV_0045,Display,maximize_conversions,4936.83,B,brand_awareness
+CAMP_0048,Unleash Revolutionary Paradigms — Search,ADV_0011,Video,maximize_conversions,2857.76,B,brand_awareness
+CAMP_0049,Optimize Distributed Synergies — Video,ADV_0013,Video,target_cpa,7764.92,A,brand_awareness
+CAMP_0050,Facilitate Next-Generation Roi — Search,ADV_0007,Shopping,target_cpa,4216.62,A,brand_awareness
+CAMP_0051,Unleash Cross-Media Eyeballs — Shopping,ADV_0026,Search,target_cpa,20275.12,B,brand_awareness
+CAMP_0052,Disintermediate Next-Generation E-Services — Search,ADV_0022,Display,maximize_conversion_value,1766.61,B,direct_sales
+CAMP_0053,Productize Collaborative Vortals — Shopping,ADV_0047,Display,maximize_conversion_value,1030.22,A,direct_sales
+CAMP_0054,Incentivize Dynamic Models — Shopping,ADV_0001,Performance Max,target_cpa,14267.35,B,brand_awareness
+CAMP_0055,Mesh Best-Of-Breed E-Commerce — Video,ADV_0009,Search,maximize_conversion_value,983.3,A,direct_sales
+CAMP_0056,Expedite Magnetic Niches — Video,ADV_0028,Video,maximize_conversion_value,2722.32,B,direct_sales
+CAMP_0057,Re-Intermediate Open-Source E-Markets — Shopping,ADV_0011,Performance Max,target_cpa,3092.02,A,brand_awareness
+CAMP_0058,Drive E-Business E-Commerce — Display,ADV_0034,Video,target_roas,1629.93,B,direct_sales
+CAMP_0059,Generate Integrated Deliverables — Performance Max,ADV_0027,Display,target_cpa,823.59,A,lead_generation
+CAMP_0060,Transition Scalable Interfaces — Search,ADV_0044,Search,target_roas,679.88,B,direct_sales
+CAMP_0061,Deliver Collaborative Experiences — Shopping,ADV_0006,Shopping,target_roas,920.06,A,direct_sales
+CAMP_0062,Re-Intermediate User-Centric Paradigms — Shopping,ADV_0027,Shopping,manual_cpc,1022.51,A,lead_generation
+CAMP_0063,Evolve Revolutionary Deliverables — Search,ADV_0036,Shopping,target_roas,878.47,B,direct_sales
+CAMP_0064,Scale B2B Roi — Video,ADV_0048,Performance Max,maximize_conversions,22116.99,A,brand_awareness
+CAMP_0065,Strategize B2B Roi — Performance Max,ADV_0028,Shopping,maximize_conversion_value,2752.66,B,direct_sales
+CAMP_0066,Whiteboard Web-Enabled Systems — Video,ADV_0010,Video,target_cpa,4537.67,B,brand_awareness
+CAMP_0067,Iterate Dot-Com Niches — Shopping,ADV_0042,Shopping,target_roas,1788.88,A,direct_sales
+CAMP_0068,Disintermediate Open-Source Partnerships — Video,ADV_0002,Shopping,target_cpa,4236.28,B,brand_awareness
+CAMP_0069,Morph Sticky Partnerships — Search,ADV_0040,Display,maximize_conversion_value,747.06,B,direct_sales
+CAMP_0070,Transition Open-Source Interfaces — Video,ADV_0013,Search,target_cpa,8051.58,A,brand_awareness
+CAMP_0071,Benchmark Bleeding-Edge Models — Performance Max,ADV_0044,Performance Max,maximize_conversion_value,515.02,B,direct_sales
+CAMP_0072,Expedite Customized Solutions — Video,ADV_0012,Shopping,maximize_conversions,2633.6,A,lead_generation
+CAMP_0073,Empower Holistic Web-Readiness — Shopping,ADV_0022,Video,maximize_conversion_value,2536.56,A,direct_sales
+CAMP_0074,Generate Proactive Infrastructures — Shopping,ADV_0014,Shopping,manual_cpc,288.23,B,lead_generation
+CAMP_0075,Deploy Strategic Relationships — Shopping,ADV_0018,Shopping,target_cpa,15050.49,A,brand_awareness
+CAMP_0076,Monetize Revolutionary Niches — Performance Max,ADV_0005,Display,target_cpa,4628.87,A,brand_awareness
+CAMP_0077,Revolutionize Virtual Mindshare — Display,ADV_0031,Shopping,target_cpa,6569.05,B,brand_awareness
+CAMP_0078,Redefine Bleeding-Edge Info-Mediaries — Video,ADV_0015,Video,target_roas,902.68,B,direct_sales
+CAMP_0079,E-Enable 24/365 Info-Mediaries — Search,ADV_0018,Shopping,maximize_conversions,9215.37,B,brand_awareness
+CAMP_0080,Mesh Collaborative Experiences — Search,ADV_0021,Display,target_roas,733.27,A,direct_sales
+CAMP_0081,Brand Strategic Partnerships — Display,ADV_0009,Display,maximize_conversion_value,1542.74,B,direct_sales
+CAMP_0082,Empower Sticky Vortals — Shopping,ADV_0009,Display,maximize_conversion_value,1632.87,B,direct_sales
+CAMP_0083,Embrace Dynamic Roi — Video,ADV_0039,Search,target_roas,2952.53,B,direct_sales
+CAMP_0084,Utilize Open-Source Niches — Search,ADV_0038,Search,target_roas,997.37,A,direct_sales
+CAMP_0085,Orchestrate Wireless Content — Search,ADV_0014,Video,target_cpa,371.68,A,lead_generation
+CAMP_0086,Revolutionize Distributed Action-Items — Search,ADV_0018,Video,target_cpa,20987.31,B,brand_awareness
+CAMP_0087,Reinvent Cross-Platform Markets — Display,ADV_0036,Performance Max,maximize_conversion_value,1351.47,A,direct_sales
+CAMP_0088,Integrate Web-Enabled Markets — Display,ADV_0024,Search,target_roas,2035.56,B,direct_sales
+CAMP_0089,Morph Cross-Media Interfaces — Shopping,ADV_0049,Performance Max,target_cpa,1460.46,A,brand_awareness
+CAMP_0090,Empower Granular Bandwidth — Display,ADV_0046,Video,target_roas,3329.64,A,direct_sales
+CAMP_0091,Target Clicks-And-Mortar E-Commerce — Video,ADV_0039,Shopping,maximize_conversion_value,2286.42,A,direct_sales
+CAMP_0092,Redefine Efficient Communities — Search,ADV_0049,Shopping,target_cpa,3352.83,A,brand_awareness
+CAMP_0093,Target Mission-Critical Mindshare — Display,ADV_0048,Shopping,target_cpa,18837.81,B,brand_awareness
+CAMP_0094,Enable Cross-Media E-Business — Video,ADV_0019,Display,target_cpa,1302.55,B,lead_generation
+CAMP_0095,Exploit Compelling Methodologies — Shopping,ADV_0030,Video,maximize_conversion_value,1009.52,A,direct_sales
+CAMP_0096,Syndicate Intuitive Schemas — Display,ADV_0048,Shopping,maximize_conversions,11606.61,B,brand_awareness
+CAMP_0097,Reinvent Clicks-And-Mortar Info-Mediaries — Display,ADV_0038,Search,maximize_conversion_value,790.67,B,direct_sales
+CAMP_0098,Brand Seamless Web Services — Shopping,ADV_0009,Performance Max,target_roas,1045.62,B,direct_sales
+CAMP_0099,Drive Enterprise Synergies — Display,ADV_0017,Video,target_cpa,13916.45,B,brand_awareness
+CAMP_0100,Unleash Front-End Systems — Video,ADV_0023,Performance Max,maximize_conversions,5036.61,B,brand_awareness
+CAMP_0101,Productize Efficient Paradigms — Video,ADV_0013,Performance Max,target_cpa,15016.73,B,brand_awareness
+CAMP_0102,Reinvent Distributed E-Tailers — Search,ADV_0006,Search,maximize_conversion_value,527.18,B,direct_sales
+CAMP_0103,Matrix Frictionless Niches — Display,ADV_0016,Video,target_roas,562.59,B,direct_sales
+CAMP_0104,Transition Wireless Synergies — Video,ADV_0032,Display,maximize_conversion_value,1386.86,B,direct_sales
+CAMP_0105,Engineer Impactful Deliverables — Display,ADV_0011,Display,target_cpa,2233.88,A,brand_awareness
+CAMP_0106,Facilitate Out-Of-The-Box Supply-Chains — Search,ADV_0049,Video,target_cpa,3678.76,A,brand_awareness
+CAMP_0107,Revolutionize Collaborative E-Commerce — Performance Max,ADV_0010,Shopping,maximize_conversions,3802.03,B,brand_awareness
+CAMP_0108,Syndicate Enterprise Functionalities — Performance Max,ADV_0039,Display,target_roas,1432.03,A,direct_sales
+CAMP_0109,Syndicate Sticky E-Commerce — Search,ADV_0030,Video,maximize_conversion_value,823.2,A,direct_sales
+CAMP_0110,Streamline Out-Of-The-Box Architectures — Video,ADV_0014,Display,target_cpa,682.21,A,lead_generation
+CAMP_0111,Empower Virtual E-Services — Search,ADV_0043,Search,maximize_conversion_value,2225.0,B,direct_sales
+CAMP_0112,Reinvent One-To-One Applications — Shopping,ADV_0022,Display,maximize_conversion_value,1200.45,A,direct_sales
+CAMP_0113,Matrix Integrated Communities — Shopping,ADV_0024,Search,maximize_conversion_value,2494.93,B,direct_sales
+CAMP_0114,Transform Global Channels — Search,ADV_0027,Video,maximize_conversions,1283.68,A,lead_generation
+CAMP_0115,Matrix Mission-Critical Synergies — Performance Max,ADV_0038,Video,target_roas,1152.35,A,direct_sales
+CAMP_0116,Enhance Granular Applications — Search,ADV_0033,Video,target_cpa,1253.44,A,lead_generation
+CAMP_0117,Seize World-Class Roi — Shopping,ADV_0006,Shopping,maximize_conversion_value,529.25,B,direct_sales
+CAMP_0118,Aggregate Value-Added Roi — Video,ADV_0037,Video,maximize_conversions,828.13,A,lead_generation
+CAMP_0119,Syndicate B2C E-Tailers — Performance Max,ADV_0033,Display,target_cpa,1150.33,A,lead_generation
+CAMP_0120,Empower Clicks-And-Mortar Supply-Chains — Performance Max,ADV_0024,Video,target_roas,1085.19,A,direct_sales
+CAMP_0121,Synthesize Cross-Media Web-Readiness — Shopping,ADV_0018,Video,target_cpa,14060.27,A,brand_awareness
+CAMP_0122,Syndicate Bricks-And-Clicks Synergies — Display,ADV_0030,Display,target_roas,1580.48,B,direct_sales
+CAMP_0123,Disintermediate Bleeding-Edge Experiences — Performance Max,ADV_0042,Display,target_roas,3034.51,A,direct_sales
+CAMP_0124,Orchestrate Distributed E-Markets — Search,ADV_0016,Video,maximize_conversion_value,469.23,A,direct_sales
+CAMP_0125,Leverage Value-Added Paradigms — Performance Max,ADV_0003,Search,maximize_conversion_value,1129.54,B,direct_sales
+CAMP_0126,Engage Open-Source Partnerships — Shopping,ADV_0001,Search,target_cpa,12389.57,B,brand_awareness
+CAMP_0127,Extend Holistic Channels — Display,ADV_0022,Video,maximize_conversion_value,1824.24,B,direct_sales
+CAMP_0128,Repurpose User-Centric Partnerships — Video,ADV_0029,Search,maximize_conversions,15975.93,B,brand_awareness
+CAMP_0129,Aggregate Cross-Media Vortals — Search,ADV_0010,Search,target_cpa,3569.09,A,brand_awareness
+CAMP_0130,Optimize Bricks-And-Clicks Web Services — Video,ADV_0003,Search,maximize_conversion_value,2549.38,A,direct_sales
+CAMP_0131,Enable Front-End Convergence — Video,ADV_0015,Shopping,maximize_conversion_value,2425.68,A,direct_sales
+CAMP_0132,Enhance Sticky Infrastructures — Shopping,ADV_0007,Search,target_cpa,8152.75,B,brand_awareness
+CAMP_0133,Generate Dot-Com Synergies — Display,ADV_0016,Search,maximize_conversion_value,878.98,B,direct_sales
+CAMP_0134,Visualize Cross-Media Roi — Shopping,ADV_0045,Display,target_cpa,8458.23,B,brand_awareness
+CAMP_0135,Engage Holistic Markets — Shopping,ADV_0025,Search,target_roas,796.09,B,direct_sales
+CAMP_0136,Incentivize Cutting-Edge Relationships — Shopping,ADV_0037,Video,target_cpa,1958.5,A,lead_generation
+CAMP_0137,Utilize Mission-Critical Applications — Shopping,ADV_0024,Search,maximize_conversion_value,1297.52,B,direct_sales
+CAMP_0138,Deploy Frictionless E-Services — Shopping,ADV_0028,Search,maximize_conversion_value,1658.7,A,direct_sales
+CAMP_0139,Streamline Enterprise E-Commerce — Shopping,ADV_0027,Shopping,maximize_conversions,706.29,A,lead_generation
+CAMP_0140,Redefine Seamless Users — Display,ADV_0030,Video,target_roas,674.86,B,direct_sales
+CAMP_0141,Streamline Real-Time Networks — Performance Max,ADV_0024,Search,target_roas,1814.32,A,direct_sales
+CAMP_0142,Streamline Dynamic Technologies — Shopping,ADV_0049,Display,maximize_conversions,2558.04,B,brand_awareness
+CAMP_0143,Revolutionize Next-Generation Bandwidth — Shopping,ADV_0033,Shopping,maximize_conversions,737.26,A,lead_generation
+CAMP_0144,Grow Rich Interfaces — Performance Max,ADV_0044,Video,maximize_conversion_value,920.3,A,direct_sales
+CAMP_0145,Benchmark End-To-End Synergies — Display,ADV_0009,Shopping,target_roas,1027.34,B,direct_sales
+CAMP_0146,Grow Vertical Paradigms — Display,ADV_0039,Display,target_roas,2632.78,B,direct_sales
+CAMP_0147,Deliver Transparent Web Services — Shopping,ADV_0035,Video,maximize_conversions,3897.29,B,brand_awareness
+CAMP_0148,Transform Real-Time Users — Shopping,ADV_0016,Display,maximize_conversion_value,886.66,A,direct_sales
+CAMP_0149,Cultivate Web-Enabled Paradigms — Shopping,ADV_0014,Performance Max,manual_cpc,772.57,B,lead_generation
+CAMP_0150,Empower Mission-Critical Methodologies — Display,ADV_0029,Shopping,maximize_conversions,13858.01,B,brand_awareness
+CAMP_0151,Maximize Intuitive Technologies — Performance Max,ADV_0021,Shopping,maximize_conversion_value,1221.83,A,direct_sales
+CAMP_0152,Innovate Cutting-Edge Experiences — Search,ADV_0044,Shopping,maximize_conversion_value,547.4,B,direct_sales
+CAMP_0153,Strategize Next-Generation Models — Performance Max,ADV_0006,Shopping,target_roas,909.97,A,direct_sales
+CAMP_0154,Leverage Clicks-And-Mortar E-Services — Shopping,ADV_0026,Display,maximize_conversions,11734.58,B,brand_awareness
+CAMP_0155,Morph Sticky Functionalities — Search,ADV_0014,Display,manual_cpc,770.47,B,lead_generation
+CAMP_0156,Optimize Best-Of-Breed Technologies — Shopping,ADV_0008,Video,target_cpa,6992.83,A,brand_awareness
+CAMP_0157,Matrix Frictionless E-Markets — Display,ADV_0003,Performance Max,target_roas,2516.39,B,direct_sales
+CAMP_0158,Visualize Open-Source E-Markets — Search,ADV_0023,Shopping,maximize_conversions,5731.12,B,brand_awareness
+CAMP_0159,Mesh Transparent E-Tailers — Search,ADV_0042,Display,target_roas,3054.1,B,direct_sales
+CAMP_0160,E-Enable B2B Supply-Chains — Display,ADV_0021,Shopping,maximize_conversion_value,538.48,B,direct_sales
+CAMP_0161,Aggregate Distributed Models — Performance Max,ADV_0046,Performance Max,target_roas,1476.61,B,direct_sales
+CAMP_0162,Brand Front-End E-Tailers — Shopping,ADV_0029,Video,maximize_conversions,7394.73,B,brand_awareness
+CAMP_0163,Deliver Scalable Platforms — Display,ADV_0033,Shopping,manual_cpc,748.75,A,lead_generation
+CAMP_0164,Syndicate Impactful Technologies — Display,ADV_0003,Video,maximize_conversion_value,1328.02,B,direct_sales
+CAMP_0165,Extend Visionary Metrics — Video,ADV_0005,Display,target_cpa,5633.46,B,brand_awareness
+CAMP_0166,Evolve Leading-Edge Architectures — Shopping,ADV_0030,Display,maximize_conversion_value,918.63,B,direct_sales
+CAMP_0167,Architect Vertical Convergence — Search,ADV_0038,Performance Max,maximize_conversion_value,700.86,B,direct_sales
+CAMP_0168,Brand Compelling Web-Readiness — Display,ADV_0022,Search,maximize_conversion_value,2592.48,B,direct_sales
+CAMP_0169,Facilitate One-To-One Synergies — Search,ADV_0018,Video,target_cpa,19788.61,A,brand_awareness
+CAMP_0170,Re-Intermediate Rich Action-Items — Display,ADV_0044,Performance Max,maximize_conversion_value,1010.51,B,direct_sales
+CAMP_0171,Incentivize Cross-Media Paradigms — Performance Max,ADV_0035,Video,maximize_conversions,2971.95,A,brand_awareness
+CAMP_0172,Deliver Vertical Info-Mediaries — Search,ADV_0045,Display,maximize_conversions,9375.12,A,brand_awareness
+CAMP_0173,Unleash Visionary Roi — Display,ADV_0027,Performance Max,manual_cpc,670.72,B,lead_generation
+CAMP_0174,Enable Cross-Platform Channels — Shopping,ADV_0010,Performance Max,target_cpa,3431.35,B,brand_awareness
+CAMP_0175,Facilitate Cross-Media E-Commerce — Performance Max,ADV_0006,Display,maximize_conversion_value,938.59,B,direct_sales
+CAMP_0176,Monetize Rich Technologies — Display,ADV_0012,Search,maximize_conversions,2784.74,A,lead_generation
+CAMP_0177,Re-Intermediate Next-Generation Metrics — Performance Max,ADV_0023,Shopping,maximize_conversions,12619.36,B,brand_awareness
+CAMP_0178,Reinvent Scalable Architectures — Shopping,ADV_0016,Search,target_roas,494.9,A,direct_sales
+CAMP_0179,Enable Sticky Partnerships — Display,ADV_0020,Display,target_cpa,7829.85,B,brand_awareness
+CAMP_0180,Transition End-To-End Eyeballs — Performance Max,ADV_0009,Shopping,target_roas,642.21,B,direct_sales
+CAMP_0181,Integrate User-Centric Platforms — Search,ADV_0030,Shopping,target_roas,1851.65,B,direct_sales
+CAMP_0182,Syndicate Dynamic E-Tailers — Search,ADV_0029,Performance Max,target_cpa,6270.53,A,brand_awareness
+CAMP_0183,Redefine Seamless Portals — Shopping,ADV_0012,Search,maximize_conversions,1717.41,A,lead_generation
+CAMP_0184,Reinvent Distributed Metrics — Shopping,ADV_0002,Display,target_cpa,4400.72,B,brand_awareness
+CAMP_0185,Aggregate Real-Time Systems — Shopping,ADV_0030,Search,target_roas,1752.2,B,direct_sales
+CAMP_0186,Repurpose Dot-Com Interfaces — Search,ADV_0029,Display,target_cpa,8247.34,B,brand_awareness
+CAMP_0187,Harness Sticky Web-Readiness — Display,ADV_0013,Search,maximize_conversions,18678.41,B,brand_awareness
+CAMP_0188,Engineer Turn-Key Users — Search,ADV_0016,Shopping,maximize_conversion_value,502.3,A,direct_sales
+CAMP_0189,Re-Contextualize User-Centric Technologies — Search,ADV_0044,Performance Max,maximize_conversion_value,1042.12,A,direct_sales
+CAMP_0190,Incubate Compelling Networks — Display,ADV_0020,Performance Max,maximize_conversions,10748.37,A,brand_awareness
+CAMP_0191,Morph Magnetic Schemas — Video,ADV_0007,Performance Max,maximize_conversions,9130.84,A,brand_awareness
+CAMP_0192,Empower Leading-Edge Solutions — Performance Max,ADV_0019,Video,maximize_conversions,586.94,A,lead_generation
+CAMP_0193,Enhance Leading-Edge Niches — Video,ADV_0027,Display,target_cpa,1475.83,A,lead_generation
+CAMP_0194,E-Enable B2B Users — Performance Max,ADV_0010,Search,maximize_conversions,4202.27,A,brand_awareness
+CAMP_0195,Incentivize Transparent E-Tailers — Search,ADV_0016,Performance Max,maximize_conversion_value,495.49,A,direct_sales
+CAMP_0196,Harness Collaborative Interfaces — Video,ADV_0011,Search,target_cpa,3809.06,B,brand_awareness
+CAMP_0197,Optimize B2B Relationships — Display,ADV_0025,Video,maximize_conversion_value,1068.92,B,direct_sales
+CAMP_0198,Transition Sticky E-Commerce — Video,ADV_0025,Search,target_roas,1199.47,B,direct_sales
+CAMP_0199,Monetize Out-Of-The-Box E-Services — Search,ADV_0025,Search,maximize_conversion_value,1464.68,B,direct_sales
+CAMP_0200,Disintermediate Integrated Partnerships — Search,ADV_0044,Shopping,maximize_conversion_value,1106.65,B,direct_sales
